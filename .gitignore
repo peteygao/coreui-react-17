@@ -11,8 +11,6 @@ package-lock.json
 /coverage
 
 # production
-/es
-/lib
 /umd
 
 # misc
