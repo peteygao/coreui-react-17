@@ -45,7 +45,7 @@
   },
   "peerDependencies": {
     "@coreui/coreui": "^2.1.9",
-    "react": "^16.8.6",
+    "react": "^16.8.6 || ^17",
     "react-router-dom": "^5.0.0"
   },
   "devDependencies": {
